@@ -1,5 +1,5 @@
 {
-  "name": "ac-qrcode",
+  "name": "ac-qrcode-smoov",
   "version": "1.1.0",
   "description": "A Highly customizable QRCode Scanner component for React Native",
   "main": "index.js",
