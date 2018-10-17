@@ -1,6 +1,6 @@
 {
   "name": "ac-qrcode-smoov",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "private": true,
   "description": "A Highly customizable QRCode Scanner component for React Native",
   "homepage": "https://github.com/bartzweers/AC-QRCode-RN#readme",
